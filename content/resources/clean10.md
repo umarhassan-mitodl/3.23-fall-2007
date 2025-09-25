@@ -1,0 +1,23 @@
+---
+content_type: resource
+description: Lecture presentation on an explicit solution of the Bloch equation, energy
+  bands, the Brillouin zone, Fermi surfaces, energy of molecules and solids, mean
+  field approaches, Hartree and Hartree-Fock, spin-statistics, the Slater determinant,
+  the Pauli principle, and the Huckel approach (LCAO for aromatic compounds).
+file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1e9c164a3efff4ba9655846180155a5c_clean10.pdf
+file_size: 703495
+file_type: application/pdf
+hide_download: true
+hide_download_original: null
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
+resourcetype: Document
+title: Tight-Binding
+uid: 1e9c164a-3eff-f4ba-9655-846180155a5c
+---
+Lecture presentation on an explicit solution of the Bloch equation, energy bands, the Brillouin zone, Fermi surfaces, energy of molecules and solids, mean field approaches, Hartree and Hartree-Fock, spin-statistics, the Slater determinant, the Pauli principle, and the Huckel approach (LCAO for aromatic compounds).
