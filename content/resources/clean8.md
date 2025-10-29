@@ -6,8 +6,6 @@ description: "Lecture presentation on the Hamiltonian in a periodic potential, t
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/6f349951d2f95813100f1a5c119f8ca4_clean8.pdf
 file_size: 249686
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

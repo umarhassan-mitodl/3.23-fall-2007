@@ -7,8 +7,6 @@ description: Lecture presentation on an explicit solution of the Bloch equation,
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1fff63313d2d01a11465e9dd474c9f78_lec10.pdf
 file_size: 1471381
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

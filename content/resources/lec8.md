@@ -5,8 +5,6 @@ description: Lecture presentation on the tight-binding model, band structures, r
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/8b6d84911e5d9fe4ea42c3243313635d_lec8.pdf
 file_size: 3439154
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

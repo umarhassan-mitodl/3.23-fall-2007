@@ -4,8 +4,6 @@ description: Lecture handout on magnetic properties of materials.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/31bd6b6961fbb595c8720c2791f0054e_magnets2.pdf
 file_size: 454318
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: "Lecture presentation on optical processes processes, optical mater
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1ee0225f846efb56de3dea54ecfbf1ff_clean23.pdf
 file_size: 208724
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

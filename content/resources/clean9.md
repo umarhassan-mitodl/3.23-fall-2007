@@ -6,8 +6,6 @@ description: Lecture presentation on an explicit solution for the Bloch orbitals
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/3d028542d1fa3737380cb3c7ff4636bc_clean9.pdf
 file_size: 365559
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

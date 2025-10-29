@@ -5,8 +5,6 @@ description: Solutions to a homework assignment on linear operators, Hermitian o
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/28e3fd4b4683a4e0d757353a7b392b93_sol1.pdf
 file_size: 252566
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

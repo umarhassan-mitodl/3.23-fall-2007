@@ -5,8 +5,6 @@ description: Solutions to a homework assignment on average lifetime of excited c
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/04005853570adeec84108402bc611650_sol12.pdf
 file_size: 138411
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

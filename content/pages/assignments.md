@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains problem sets and solutions for the Electronic and
   Optical units. Materials from the Magnetics unit are not available at this time.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

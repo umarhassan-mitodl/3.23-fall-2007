@@ -8,8 +8,6 @@ description: "Lecture presentation on interband absorption, polarization, transv
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/c93d639a643feb06f378d9f9854c4774_clean17.pdf
 file_size: 381725
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

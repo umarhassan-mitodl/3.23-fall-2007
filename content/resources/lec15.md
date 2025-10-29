@@ -7,8 +7,6 @@ description: Lecture presentation on electromagnetism in dielectric media, p-n j
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/ffbcb29dc4bca37b99ea45f70439d4da_lec15.pdf
 file_size: 720198
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

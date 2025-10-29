@@ -7,8 +7,6 @@ description: Lecture presentation on semiconductor quantum wells, photoluminesce
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1494fa88caf273af1db9092d3ab8df63_lec25.pdf
 file_size: 1064607
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

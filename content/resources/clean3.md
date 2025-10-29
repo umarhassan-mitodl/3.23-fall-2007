@@ -8,8 +8,6 @@ description: Lecture presentation on wave mechanics, the first postulate, normal
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/55087bf9ce2a0c80c588e7f10200d687_clean3.pdf
 file_size: 578216
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

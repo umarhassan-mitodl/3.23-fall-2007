@@ -6,8 +6,6 @@ description: Lecture presentation on periodic potential, Bloch sums of localized
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/899db3dea569bf0b70cc96c0a32df793_lec11.pdf
 file_size: 2101368
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

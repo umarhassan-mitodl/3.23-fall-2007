@@ -7,8 +7,6 @@ description: Lecture presentation on Newtonian, Lagrangian, and Hamiltonian form
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/5800ad6759c7b34c285d3ccc7f58c10c_clean7.pdf
 file_size: 1152539
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

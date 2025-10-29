@@ -5,8 +5,6 @@ description: Homework assignment on storing power in spinach, molecular orbitals
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/41c7c35bee864270176b4835f8686a16_ps2.pdf
 file_size: 144067
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

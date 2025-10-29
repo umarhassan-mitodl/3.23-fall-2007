@@ -6,8 +6,6 @@ description: Lecture presentation on electromagnetism, the electromagnetic spect
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/2783bc9338784e889426e53a967eaa8a_clean16.pdf
 file_size: 401900
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

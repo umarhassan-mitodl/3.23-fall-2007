@@ -6,8 +6,6 @@ description: Lecture presentation on orbitals in atoms, nodal surfaces, good qua
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/213d246f8b3850b229ea3f527f572720_clean5.pdf
 file_size: 667119
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: Lecture presentation on the band structure of oxides, semiconductor
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/378934ae2e6b4f8473d6d8ba84b23161_lec12.pdf
 file_size: 1942270
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

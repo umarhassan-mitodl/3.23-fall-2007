@@ -7,8 +7,6 @@ description: Lecture presentation on vector space, eigenvalues and eigenstates a
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/992befec1e95f2c89bf48203a5b292d5_clean6.pdf
 file_size: 471615
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

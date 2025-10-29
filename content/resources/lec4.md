@@ -8,8 +8,6 @@ description: "Lecture presentation on wave mechanics, commuting Hermitian operat
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/c967fe072464ca7c67ff64bda47dbd1f_lec4.pdf
 file_size: 1424593
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

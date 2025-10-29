@@ -5,8 +5,6 @@ description: Solutions to a homework assignment on intrinsic semiconductors, p-d
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/b31cbef9e33530bca919c4d77fbdb8d0_sol7.pdf
 file_size: 298879
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

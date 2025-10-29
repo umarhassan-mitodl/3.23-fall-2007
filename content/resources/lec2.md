@@ -7,8 +7,6 @@ description: "Lecture presentation on the time-dependent Schr\xF6dinger equation
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/d51c78e0530cbc5cd51400154d19f910_lec2.pdf
 file_size: 1870351
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Solutions to exercises on quantum mechanics provided as a study aid
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/098f91e843d1a15997146d3358134183_qm1_sol.pdf
 file_size: 138875
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
